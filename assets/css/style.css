@@ -57,6 +57,7 @@ section {
 .About-me-detail{
     display:flex;
     align-items:center;
+    
 
 }
 
@@ -64,7 +65,7 @@ section {
     margin-right: 16px;
     margin-bottom: 16px;
     margin-top: 8px;
-    width: 200px
+    width: 280px;
     
 }
 
@@ -73,9 +74,7 @@ section {
     flex-wrap: wrap;
 }
 
-h3 img {
-    width:200px;
-}
+
 
 article {
     width: 50%;
@@ -83,11 +82,12 @@ article {
 }
 
 article img {
-    width: 100%;
+    width: 90%;
+    margin-left: 50px;
 }
 
 .Projects {
-    width: 100%;
+    width: 95%;
 }
 
 footer {
