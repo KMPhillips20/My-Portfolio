@@ -1,5 +1,18 @@
 body {
     background-color: rgb(57, 109, 57);
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    text-decoration: underline;
+    color: black;
+}
+
+h2 {
+    font-size: 28px;
+    text-decoration: underline;
+    color: maroon;
 }
 
 .container {
@@ -29,6 +42,17 @@ section {
     line-height: 32px;
 }
 
+.About-me-detail{
+    display:flex;
+    align-items:center;
+}
+
+.About-me-detail img {
+    margin-right: 16px;
+    margin-bottom: 16px;
+   
+}
+
 #work {
     display: flex;
     flex-wrap: wrap;
@@ -45,4 +69,18 @@ article img {
 
 .Projects {
     width: 100%;
+}
+
+footer {
+    padding: 20px;
+    background-color: white;
+    color:black;
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer a {
+    margin-left: 16px;
+    color:maroon;
+    text-decoration: none;
 }
