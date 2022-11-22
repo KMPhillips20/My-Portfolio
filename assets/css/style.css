@@ -73,6 +73,10 @@ section {
     flex-wrap: wrap;
 }
 
+h3 img {
+    width:200px;
+}
+
 article {
     width: 50%;
     padding: 20px;
