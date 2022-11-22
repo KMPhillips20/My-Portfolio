@@ -1,9 +1,29 @@
 body {
-    background-color: rgb(165, 164, 164);
+    background-color: navy;
 }
 
 .container {
-    max-width: 1140px;
+    max-width: 1123px;
     margin: 0 auto;
-    background-color:navy;
+    background-color: lightgray;
+}
+
+.container > header {
+    padding: 20px;
+    background-color: white;
+    color:black;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a {
+    margin-left: 16px;
+    color:maroon;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+    font-size: 23px;
+    line-height: 32px;
 }
