@@ -1,5 +1,5 @@
 body {
-    background-color: navy;
+    background-color: rgb(57, 109, 57);
 }
 
 .container {
@@ -20,10 +20,29 @@ nav a {
     margin-left: 16px;
     color:maroon;
     text-decoration: none;
+
 }
 
 section {
     padding: 20px;
     font-size: 23px;
     line-height: 32px;
+}
+
+#work {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article {
+    width: 50%;
+    padding: 20px;
+}
+
+article img {
+    width: 100%;
+}
+
+.Projects {
+    width: 100%;
 }
