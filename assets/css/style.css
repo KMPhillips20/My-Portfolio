@@ -25,12 +25,12 @@ main{
 
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 45px;
+    font-size: 45pt;
 }
 
 h2{
     background-color: #E6DDC4;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h3 {
