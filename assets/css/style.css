@@ -1,34 +1,33 @@
-
-body {
-background-color:#181D31;
-}
-
-section{
-    background-color:#E6DDC4; 
-    font-family: Georgia, 'Times New Roman', Times, serif;
-}
-
-nav{
+nav {
     background-color:#E6DDC4;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20pt;
 
 }
 
-footer{
-    background-color:#678983 ;
+body {
+background-color:#181D31;
 }
 
-main{
+main {
     background-color: #678983;
 }
 
-h1{
+footer {
+    background-color:#678983 ;
+}
+
+section {
+    background-color:#E6DDC4; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45pt;
 }
 
-h2{
+h2 {
     background-color: #E6DDC4;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
