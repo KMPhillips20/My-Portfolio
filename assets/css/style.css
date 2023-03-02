@@ -14,7 +14,7 @@ main {
 }
 
 footer {
-    background-color:#678983 ;
+    background-color:#678983;    
 }
 
 section {
@@ -36,6 +36,8 @@ h3 {
     font-family: Georgia, 'Times New Roman', Times, serif ;
     font-size: 20pt;
 }
+
 p {
     font-size: 15pt;
 }
+
